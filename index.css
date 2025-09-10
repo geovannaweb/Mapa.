@@ -1,0 +1,23 @@
+/* ccinter.css */
+body {
+    font-family: sans-serif;/* Fonte sem serifa [cite: 1] */
+    font-size: 22px; /* Tamanho 22 [cite: 1] */
+}
+figcaption{
+    margin-left: 300px;
+}
+
+h1 {
+    text-align: center; /* Título centralizado [cite: 1] */
+}
+
+p {
+    text-align: justify;/* Corpo do texto justificado [cite: 1] */
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;/* Foto centralizada [cite: 2] */
+}
